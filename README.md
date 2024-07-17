@@ -21,10 +21,7 @@ Are you ready to dive into the mesmerizing world of generative art, where pixels
 
 ## How to Get Started
 
-1. **Clone the Repository**: Grab your digital paintbrush by cloning this repository:
-   ```
-   git clone https://github.com/your-username/gan-playground.git
-   ```
+1. **Clone the Repository**: Grab your digital paintbrush by cloning this repository.
 
 2. **Create Your Masterpieces**: Explore the notebooks, run the code, and witness the magic unfold. Modify hyperparameters, swap architectures, and let your imagination run wild.
 
